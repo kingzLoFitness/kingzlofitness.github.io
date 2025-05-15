@@ -1,4 +1,4 @@
 # My Portfolio
 
-[PORTFOLIO](kingzlofitness.github.io)
+[PORTFOLIO](https://kingzlofitness.github.io)
 
